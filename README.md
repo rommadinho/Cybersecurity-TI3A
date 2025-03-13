@@ -1,5 +1,5 @@
 # Pengumpulan Tugas
-# gunakan CMD(command prompt) / gunakan Git bash
+gunakan CMD(command prompt) / gunakan Git bash
 
 Silakan upload tugas ke dalam folder masing-masing dengan langkah berikut menggunakan cmd(command prompt) pada folder tugas kalian:
 1. Buat folder terlebih dahulu dengan penamaan bebas terserah preferensi anda
@@ -7,8 +7,8 @@ Silakan upload tugas ke dalam folder masing-masing dengan langkah berikut menggu
 git remote add origin https://github.com/ClassTI-A/Cybersecurity-TI3A.git
 3. Masuk ke folder masing-masing:
 4. Tambahkan file tugas:
-git add tugas.pdf git commit -m "Menambahkan tugas" git push origin main
-5. jalankan git push -u origin main
+git add tugas.pdf git commit -m "Menambahkan tugas"
+6. jalankan git push -u origin main
 
 # note Jika terjadi error saat push seperti ini
 
