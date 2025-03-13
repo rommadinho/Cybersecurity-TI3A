@@ -15,4 +15,4 @@ git add tugas.pdf git commit -m "Menambahkan tugas" git push origin main
 maka lakukan pada cmd anda git pull origin main --rebase
 kemudian silahkan di git push -u origin main
 
-# jika terkendala masih terdapat kendala hubungi ketua kelas :)
+# jika masih terdapat kendala hubungi ketua kelas :)
